@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Gabriel Zavando
 #### Soy desarrollador web Front End
-![Soy desarrollador web Front End](https://gabrielzavando.cl/assets/img/banner-github.jpg)
+![Soy desarrollador web Front End](https://gabrielzavando.cl/assets/img/Linkedin-cover.png)
 
 Manejo las tecnologías Front End. Creo Themes para Wordpress y trabajo con los Stack MEAN o LAMP según los requerimientos de cada proyecto.
 
